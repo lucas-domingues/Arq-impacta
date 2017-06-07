@@ -1,0 +1,81 @@
+<diagram program="umletino" version="14.2">
+<zoom_level>10</zoom_level>
+<help_text>Space for diagram notes</help_text>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>330</x>
+<y>28</y>
+<w>310</w>
+<h>260</h>
+</coordinates>
+<panel_attributes><<Computador Cliente>></panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>360</x>
+<y>78</y>
+<w>250</w>
+<h>200</h>
+</coordinates>
+<panel_attributes><<SO>> Windows 7 ou superior</panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLGeneric</id>
+<coordinates>
+<x>400</x>
+<y>158</y>
+<w>160</w>
+<h>100</h>
+</coordinates>
+<panel_attributes><<Web Browser>> Chrome 37 ou superior</panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>320</x>
+<y>348</y>
+<w>320</w>
+<h>260</h>
+</coordinates>
+<panel_attributes><<Computador Servidor>></panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLDeployment</id>
+<coordinates>
+<x>360</x>
+<y>398</y>
+<w>250</w>
+<h>200</h>
+</coordinates>
+<panel_attributes><<Servidor de Aplicações>> Tom Cat 8 ou Superior</panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>UMLGeneric</id>
+<coordinates>
+<x>400</x>
+<y>478</y>
+<w>160</w>
+<h>100</h>
+</coordinates>
+<panel_attributes><<Aplicação Java Web>> Loja Virtual</panel_attributes>
+<additional_attributes/>
+</element>
+<element>
+<id>Relation</id>
+<coordinates>
+<x>470</x>
+<y>250</y>
+<w>50</w>
+<h>170</h>
+</coordinates>
+<panel_attributes>http</panel_attributes>
+<additional_attributes>10;10;10;150</additional_attributes>
+</element>
+</diagram>
